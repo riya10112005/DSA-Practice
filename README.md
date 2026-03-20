@@ -39,7 +39,7 @@ I solve at least 1 LeetCode problem every day and commit it here.
 
 ## 📊 LeetCode Profile
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-_Riya_Bhowmik-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/riya10112005)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Riya_Bhowmik-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/_Riya_Bhowmik)
 
 ---
 
