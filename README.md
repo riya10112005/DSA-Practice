@@ -37,7 +37,13 @@ I solve at least 1 LeetCode problem every day and commit it here.
 
 ---
 
-## 📊 Progress
+## 📊 LeetCode Profile
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-riya10112005-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/riya10112005)
+
+---
+
+## 📈 Progress
 
 - Total Solved: 3
 - Easy: 3
