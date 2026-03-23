@@ -1,3 +1,7 @@
+// LeetCode #167 - Two Sum || - Input Array is sorted
+// Topic: Arrays
+
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& numbers, int target) {
